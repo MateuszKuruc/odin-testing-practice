@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1688545199599" clover="3.2.0">
+  <project timestamp="1688545199599" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7" elements="31" coveredelements="31" complexity="0" loc="22" ncloc="22" packages="1" files="1" classes="1"/>
+    <file name="practice.js" path="/Users/mati/repos/odin-testing-practice/practice.js">
+      <metrics statements="22" coveredstatements="22" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="36" count="5" type="stmt"/>
+      <line num="37" count="5" type="stmt"/>
+      <line num="38" count="5" type="stmt"/>
+      <line num="40" count="5" type="stmt"/>
+      <line num="41" count="102" type="cond" truecount="2" falsecount="0"/>
+      <line num="42" count="85" type="stmt"/>
+      <line num="44" count="17" type="stmt"/>
+      <line num="46" count="102" type="stmt"/>
+      <line num="49" count="5" type="stmt"/>
+      <line num="50" count="5" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
